@@ -160,7 +160,7 @@ Backend services, REST APIs and integrations for modern apps.
 [![Website](https://img.shields.io/badge/Website-dash.pwr.lol-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dash.pwr.lol)
 [![GitHub](https://img.shields.io/badge/GitHub-HeyItsDanny-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeyItsDanny)
 [![PowerBot](https://img.shields.io/badge/PowerBot-Dashboard-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white)](https://dash.pwr.lol)
-[![Discord](https://img.shields.io/badge/Personal-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/539513467313455105)
+[![Discord](https://img.shields.io/badge/Discord-danny1803-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/539513467313455105)
 
 </div>
 
